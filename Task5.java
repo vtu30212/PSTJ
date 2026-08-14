@@ -1,15 +1,31 @@
-public class Task6 {
+import java.util.*;
 
-    public static void main(String[] args) {
+public class KSmallestElement {
 
-        int[] arr = {10, 20, 30, 40};
+    public static int findKthSmallest(int[] arr, int k) {
+        if (k <= 0 || k > arr.length) {
+            throw new IllegalArgumentException("Invalid value of k");
+        }
 
-        for (int first = 0; first < arr.length - 1; first++) {
+        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
 
-            for (int second = first + 1; second < arr.length; second++) {
+        for (int num : arr) {
+            maxHeap.add(num);
 
-                System.out.println(arr[first] + " - " + arr[second]);
+            if (maxHeap.size() > k) {
+                maxHeap.poll();
             }
         }
+
+        return maxHeap.peek();
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {7, 10, 4, 3, 20, 15};
+        int k = 3;
+
+        int result = findKthSmallest(arr, k);
+
+        System.out.println("Kth smallest element: " + result);
     }
 }
