@@ -6,12 +6,14 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu30212/PSTJ/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30212/PSTJ/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/vtu30212/PSTJ/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/vtu30212/PSTJ/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30212/PSTJ/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/vtu30212/PSTJ/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/vtu30212/PSTJ/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/vtu30212/PSTJ/tree/master/1920-build-array-from-permutation) |
 ## Prefix Sum
 |  |
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu30212/PSTJ/tree/master/0283-move-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu30212/PSTJ/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
