@@ -15,4 +15,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/vtu30212/PSTJ/tree/master/1732-find-the-highest-altitude) |
+## String
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu30212/PSTJ/tree/master/1704-determine-if-string-halves-are-alike) |
+## Counting
+|  |
+| ------- |
+| [1704-determine-if-string-halves-are-alike](https://github.com/vtu30212/PSTJ/tree/master/1704-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
