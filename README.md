@@ -8,6 +8,7 @@
 | [0217-contains-duplicate](https://github.com/vtu30212/PSTJ/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vtu30212/PSTJ/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/vtu30212/PSTJ/tree/master/0867-transpose-matrix) |
+| [0905-sort-array-by-parity](https://github.com/vtu30212/PSTJ/tree/master/0905-sort-array-by-parity) |
 | [1314-matrix-block-sum](https://github.com/vtu30212/PSTJ/tree/master/1314-matrix-block-sum) |
 | [1470-shuffle-the-array](https://github.com/vtu30212/PSTJ/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/vtu30212/PSTJ/tree/master/1732-find-the-highest-altitude) |
@@ -43,11 +44,13 @@
 | ------- |
 | [0179-largest-number](https://github.com/vtu30212/PSTJ/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/vtu30212/PSTJ/tree/master/0217-contains-duplicate) |
+| [0905-sort-array-by-parity](https://github.com/vtu30212/PSTJ/tree/master/0905-sort-array-by-parity) |
 | [2418-sort-the-people](https://github.com/vtu30212/PSTJ/tree/master/2418-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/vtu30212/PSTJ/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/vtu30212/PSTJ/tree/master/0905-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
