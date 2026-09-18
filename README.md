@@ -27,6 +27,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vtu30212/PSTJ/tree/master/0008-string-to-integer-atoi) |
 | [0179-largest-number](https://github.com/vtu30212/PSTJ/tree/master/0179-largest-number) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu30212/PSTJ/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2418-sort-the-people](https://github.com/vtu30212/PSTJ/tree/master/2418-sort-the-people) |
